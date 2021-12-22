@@ -10,4 +10,4 @@ Using an ESP32 module, an RFID reader and a Solenoid lock, the ESP32 App lock pr
 - Solenoid Door Lock
 
 ## Tutorial
-- [Arduino Tutorial: ESP32 RFID App Lock](https://www.kuriosity.sg/blog/arduino-tutorial-esp32-rfid-app-lock)
+- [Arduino Tutorial: ESP32 RFID App Lock](https://www.kuriosity.sg/blog/arduino-tutorial-esp32-blynk-rfid-app-lock)
